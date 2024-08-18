@@ -86,7 +86,7 @@ Este repositório é dedicado a projetos de análise de dados com o Excel.
 
 ![Análise de Vendas](images/clientes.png)
 
-**[Projeto 07 - Link](https://github.com/marcelomduarte/analise_de_vendas_excel_power_bi) | Atualizado: 12/03/2024**
+**[Projeto 07 - Link](https://github.com/marcelomduarte/analise_de_vendas_excel_power_bi) | Atualizado: 18/08/2024**
 
 [Índice ↑](#indice)
 
