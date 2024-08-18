@@ -93,6 +93,8 @@ Este repositório é dedicado a projetos de análise de dados com o Excel.
 ---
 
 ### Análise de Investimento em uma Franquia<a name="projeto-08"></a>
+											
+![image](https://github.com/user-attachments/assets/46758751-7f93-487d-9ef2-95744bc167a4)
 
 **[Projeto 08 - Link](https://github.com/marcelomduarte/analise_de_investimento_excel) | Atualizado: 12/03/2024**
 
