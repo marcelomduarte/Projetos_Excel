@@ -94,7 +94,7 @@ Este repositório é dedicado a projetos de análise de dados com o Excel.
 
 ### People Analytics<a name="projeto-09"></a>
 
-![people_analytics](people_analytics.png)
+![people_analytics](images/people_analytics.png)
 
 **[Projeto 09 - Link](https://github.com/marcelomduarte/people_analytics_excel) | Atualizado: 12/03/2024**
 
