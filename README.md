@@ -104,6 +104,8 @@ Este repositório é dedicado a projetos de análise de dados com o Excel.
 
 ### Simulação Financeira<a name="projeto-09"></a>
 
+![image](https://github.com/user-attachments/assets/29f320bd-61e2-492a-b62e-32182e469792)
+
 **[Projeto 09 - Link](https://github.com/marcelomduarte/simulacao_financeira_excel) | Atualizado: 12/03/2024**
 
 [Índice ↑](#indice)
