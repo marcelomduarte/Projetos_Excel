@@ -9,10 +9,12 @@ Este repositório é dedicado a projetos de análise de dados com o Excel.
 3. [Recursos Humanos: Monitoramento de Ativos, Contratações, Desligamentos e Turnover](#projeto-03)
 4. [Gestão Logística](#projeto-04)
 5. [Acompanhamento de Vendas](#projeto-05)
-6. [Análise de Investimento em uma Franquia](#projeto-06)
-7. [Simulação Financeira](#projeto-07)
-8. [Análise de Vendas](#projeto-08)
-9. [People Analytics](#projeto-09)
+6. [People Analytics](#projeto-06)
+7. [Análise de Vendas](#projeto-07)
+8. [Análise de Investimento em uma Franquia](#projeto-08)
+9. [Simulação Financeira](#projeto-09)
+
+
 
 ---
 
@@ -68,34 +70,36 @@ Este repositório é dedicado a projetos de análise de dados com o Excel.
 
 ---
 
-### Análise de Investimento em uma Franquia<a name="projeto-06"></a>
-
-**[Projeto 06 - Link](https://github.com/marcelomduarte/analise_de_investimento_excel) | Atualizado: 12/03/2024**
-
-[Índice ↑](#indice)
-
----
-
-### Simulação Financeira<a name="projeto-07"></a>
-
-**[Projeto 07 - Link](https://github.com/marcelomduarte/simulacao_financeira_excel) | Atualizado: 12/03/2024**
-
-[Índice ↑](#indice)
-
----
-
-### Análise de Vendas<a name="projeto-08"></a>
-
-**[Projeto 08 - Link](https://github.com/marcelomduarte/analise_de_vendas_excel_power_bi) | Atualizado: 12/03/2024**
-
-[Índice ↑](#indice)
-
----
-
-### People Analytics<a name="projeto-09"></a>
+### People Analytics<a name="projeto-06"></a>
 
 ![people_analytics](images/people_analytics.png)
 
-**[Projeto 09 - Link](https://github.com/marcelomduarte/people_analytics_excel) | Atualizado: 12/03/2024**
+**[Projeto 06 - Link](https://github.com/marcelomduarte/people_analytics_excel) | Atualizado: 18/08/2024**
 
 [Índice ↑](#indice)
+
+---
+
+### Análise de Vendas<a name="projeto-07"></a>
+
+**[Projeto 07 - Link](https://github.com/marcelomduarte/analise_de_vendas_excel_power_bi) | Atualizado: 12/03/2024**
+
+[Índice ↑](#indice)
+
+---
+
+### Análise de Investimento em uma Franquia<a name="projeto-08"></a>
+
+**[Projeto 08 - Link](https://github.com/marcelomduarte/analise_de_investimento_excel) | Atualizado: 12/03/2024**
+
+[Índice ↑](#indice)
+
+---
+
+### Simulação Financeira<a name="projeto-09"></a>
+
+**[Projeto 09 - Link](https://github.com/marcelomduarte/simulacao_financeira_excel) | Atualizado: 12/03/2024**
+
+[Índice ↑](#indice)
+
+
