@@ -82,12 +82,9 @@ Este repositório é dedicado a projetos de análise de dados com o Excel.
 
 ### Análise de Vendas<a name="projeto-07"></a>
 
-<p align="center">
-  <img src="images/Faturamento bruto por país.png" alt="Faturamento bruto por país" width="200"/>
-  <img src="images/Descontos por país.png" alt="Descontos por país" width="200"/>
-  <img src="images/Faturamento líquido por país.png" alt="Faturamento líquido por país" width="200"/>
-  <img src="images/Margem de lucro líquido por país.png" alt="Margem de lucro líquido por país" width="200"/>
-</p>
+![Análise de Vendas](images/pais.png)
+
+![Análise de Vendas](images/clientes.png)
 
 **[Projeto 07 - Link](https://github.com/marcelomduarte/analise_de_vendas_excel_power_bi) | Atualizado: 12/03/2024**
 
